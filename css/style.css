@@ -1,0 +1,19 @@
+.bg-primary{
+    background: linear-gradient(to right ,#fc00ff,#00dbde)!important;
+}
+.my-icon{
+    font-size: 80px !important;
+    color:rgb(19, 229, 236);
+}
+.mycontainer{
+    border: .3px solid #fc00ff;
+    padding: 20px;
+    cursor: pointer;
+transition:200ms all ease-in-out ;
+
+}
+.mycontainer:hover{
+    background: black;
+    color:white;
+border-radius: 20px;
+}
